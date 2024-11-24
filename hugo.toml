@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Nicks Portfolio'
 theme = 'qubt'
 
+[build.environment]
+  HUGO_VERSION = "0.139.0"
